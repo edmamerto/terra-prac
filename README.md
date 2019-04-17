@@ -33,5 +33,3 @@ Test terraform
 ```
 $ terraform
 ```sd
-
-hello world
