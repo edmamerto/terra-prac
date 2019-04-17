@@ -20,7 +20,7 @@ Create a folder called downloads and move terraform binary there
 $ mkdir downloads
 $ mv terraform downloads/
 ```
-delete zip
+daelete zip
 ```
 $ rm terraform_0.11.13_linux_amd64.zip
 ```
@@ -32,4 +32,4 @@ source .profile
 Test terraform
 ```
 $ terraform
-```
+```sd
