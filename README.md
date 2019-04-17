@@ -33,4 +33,3 @@ Test terraform
 ```
 $ terraform
 ```
-test
